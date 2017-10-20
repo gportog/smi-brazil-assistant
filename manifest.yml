@@ -1,0 +1,11 @@
+applications:
+- name: smi-brazil-assistant
+  command: npm start
+  path: .
+  memory: 256M
+  instances: 1
+  services:
+  - smi-brazil-conversation
+  env:
+    NPM_CONFIG_PRODUCTION: false
+    WORKSPACE_ID: <TYPE YOUR OWN WORKSPACE ID HERE>
