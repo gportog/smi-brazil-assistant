@@ -14,7 +14,7 @@ This chatbot was developed using **Node.js** and hosted on Bluemix with a contin
 
 This chatbot is designed to assist with the most common information and the most frequently asked questions. The idea is to provide guidance to the different support teams through the SMI supported clients documentations, especially for resources that are not familiar with SMI's official information repositories.
 
-![SMI Virtual Assistant Dialog Diagram](https://github.ibm.com/EADS-SMI-POOL3/smi-brazil-assistant/blob/master/public/images/SMI%20Chat-Bot.png)
+![SMI Virtual Assistant Dialog Diagram](https://github.com/IBM-SMI-Brazil/smi-brazil-assistant/blob/master/images/SMI%20Chat-Bot.png)
 
 
 # Dialog Steps
