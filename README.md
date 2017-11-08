@@ -63,6 +63,6 @@ In case you need any further information or assistance, the following folks can 
 
 Team            |        Name   |    Email    | Role  
 ---------------------|------------------------------------|---------|------|
-<img src="https://github.com/IBM-SMI-Brazil/smi-brazil-assistant/blob/master/images/gportog.png" width="120"> | [Gustavo Porto Guedes](https://www.linkedin.com/in/gustavo-porto-guedes/) | gportog@br.ibm.com | IT Specialist
+<img src="https://github.com/IBM-SMI-Brazil/smi-brazil-assistant/blob/master/images/gportog.png" width="120"> | [Gustavo Porto Guedes](https://www.linkedin.com/in/gustavo-porto-guedes/) | gportog@br.ibm.com | Developer
 <img src="https://github.com/IBM-SMI-Brazil/smi-brazil-assistant/blob/master/images/hugocris.png" width="120"> | [Hugo Cristiano Lima](https://www.linkedin.com/in/hugo-cristiano-lima-dos-santos-b27609b6/) | hugocris@br.ibm.com | IT Specialist
 <img src="https://github.com/IBM-SMI-Brazil/smi-brazil-assistant/blob/master/images/fsilveir.jpg" width="120">  | [Felipe Silveira](https://www.linkedin.com/in/fsilveira/) | fsilveir@br.ibm.com | IT Specialist
